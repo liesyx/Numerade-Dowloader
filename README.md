@@ -20,6 +20,6 @@ Some time you can`t get the video form your link because 2 reason:
 # how to use
 - open and run .exe file
 # Contact 
-- Email:dungkm456@gmail.com
+- Email: dungkm456@gmail.com
 
 - website: http://liesy.cf/profile/
