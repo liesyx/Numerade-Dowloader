@@ -5,7 +5,9 @@ Find Bug And Track Report Send At: dungkm456@gmail.com
 
 Use My Project To Make Modern App
 # How to Use ?
-just input the link Numerade and enjoy XD
+just input the link Numerade and enjoy it XD
+dont care about key ( i do it J4F XD)
+
 ![image](https://user-images.githubusercontent.com/63604038/209435767-aba4bf48-1d11-4f19-87cd-52e980d21eff.png)
 
 # Remind
