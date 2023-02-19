@@ -15,7 +15,7 @@ dont care about key ( i do it J4F XD)
 
 Some time you can`t get the video form your link because 2 reason:
 1. your connect is low
-2. this anserw not available in Numerade 
+2. this answer not available in Numerade 
 
 # how to use
 - open and run .exe file
