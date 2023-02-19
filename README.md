@@ -17,7 +17,7 @@ Some time you can`t get the video form your link because 2 reason:
 1. your connect is low
 2. this answer not available in Numerade 
 
-# how to use
+# How to run?
 - open and run .exe file
 - video: https://www.facebook.com/nierliesy/posts/pfbid0t8A8ZJE8aYXdjuhQJT45NtwSTed75BQi7PePpJi1garWFZtNhZxCBrub7faRrsyol
 # Contact 
