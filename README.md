@@ -18,7 +18,7 @@ Some time you can`t get the video form your link because 2 reason:
 2. this answer not available in Numerade 
 
 # How to run?
-- open and run .exe file
+- open and run Numeradedowloader.exe file
 - video: https://youtu.be/gC1WmL83JxM
 # Contact 
 - Email: dungkm456@gmail.com
