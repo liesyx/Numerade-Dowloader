@@ -19,7 +19,7 @@ Some time you can`t get the video form your link because 2 reason:
 
 # How to run?
 - open and run .exe file
-- video: https://www.facebook.com/nierliesy/posts/pfbid0t8A8ZJE8aYXdjuhQJT45NtwSTed75BQi7PePpJi1garWFZtNhZxCBrub7faRrsyol
+- video: https://youtu.be/gC1WmL83JxM
 # Contact 
 - Email: dungkm456@gmail.com
 
