@@ -2,8 +2,8 @@
 
 Modern Project Open Soruce And Free Of Cost 100% Safe Credit Liesy
 
-Find Bug And Track Report Send At: dungkm456@gmail.com
-Buy Me A Coffee: https://www.buymeacoffee.com/liesy
+-Find Bug And Track Report Send At: dungkm456@gmail.com
+-Buy Me A Coffee: https://www.buymeacoffee.com/liesy
 
 Use My Project To Make Modern App
 # How to Use ?
