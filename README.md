@@ -23,5 +23,5 @@ Some time you can`t get the video form your link because 2 reason:
 - video: https://youtu.be/gC1WmL83JxM
 # Contact 
 - Email: dungkm456@gmail.com
-- website: http://liesy.cf/profile/
--Buy Me A Coffee: https://www.buymeacoffee.com/liesy
+- Website: http://liesy.cf/profile/
+- Buy Me A Coffee: https://www.buymeacoffee.com/liesy
